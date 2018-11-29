@@ -9,17 +9,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/activity8_sbyluppala$Unittests_for_TestActivity8_CustomerInfo.coverage" NAME="Unittests for TestActivity8.CustomerInfo Coverage Results" MODIFIED="1543462410961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/activity8_sbyluppala$Unittests_for_TestActivity8_CustomerInfo_test_find_customer_300.coverage" NAME="Unittests for TestActivity8.CustomerInfo.test_find_customer_300 Coverage Results" MODIFIED="1543463007703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/activity8_sbyluppala$Unittests_for_TestActivity8_CustomerInfo_test_find_customer_200.coverage" NAME="Unittests for TestActivity8.CustomerInfo.test_find_customer_200 Coverage Results" MODIFIED="1543463468360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/activity8_sbyluppala$Unittests_for_TestActivity8_CustomerInfo.coverage" NAME="Unittests for TestActivity8.CustomerInfo Coverage Results" MODIFIED="1543465644271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/activity8_sbyluppala$Unittests_for_TestActivity8_CustomerInfo_test_find_customer_300.coverage" NAME="Unittests for TestActivity8.CustomerInfo.test_find_customer_300 Coverage Results" MODIFIED="1543466332218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/activity8_sbyluppala$Quiz4p2.coverage" NAME="Quiz4p2 Coverage Results" MODIFIED="1543442902394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/activity8_sbyluppala$Unittests_for_TestActivity8_CustomerInfo_test_find_customer_novalue.coverage" NAME="Unittests for TestActivity8.CustomerInfo.test_find_customer_novalue Coverage Results" MODIFIED="1543463955772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/activity8_sbyluppala$Unittests_for_TestActivity8_CustomerInfo_test_find_customer_1000.coverage" NAME="Unittests for TestActivity8.CustomerInfo.test_find_customer_1000 Coverage Results" MODIFIED="1543464027433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/activity8_sbyluppala$Unittests_for_TestActivity8_CustomerInfo_test_find_customer_1000.coverage" NAME="Unittests for TestActivity8.CustomerInfo.test_find_customer_1000 Coverage Results" MODIFIED="1543466234515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/activity8_sbyluppala$Unittests_for_TestActivity8_CustomerInfo_test_find_customer_negative.coverage" NAME="Unittests for TestActivity8.CustomerInfo.test_find_customer_negative Coverage Results" MODIFIED="1543464019139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/activity8_sbyluppala$Unittests_for_TestActivity8_CustomerInfo_test_find_customer_101.coverage" NAME="Unittests for TestActivity8.CustomerInfo.test_find_customer_101 Coverage Results" MODIFIED="1543464012205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/activity8_sbyluppala$Unittests_for_TestActivity8_CustomerInfo_test_find_customer_101.coverage" NAME="Unittests for TestActivity8.CustomerInfo.test_find_customer_101 Coverage Results" MODIFIED="1543466434489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/activity8_sbyluppala$activity8__1_.coverage" NAME="activity8 (1) Coverage Results" MODIFIED="1543436626983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/activity8_final/activity8-master" />
-    <SUITE FILE_PATH="coverage/activity8_sbyluppala$Unittests_in_TestActivity8_py.coverage" NAME="Unittests in TestActivity8.py Coverage Results" MODIFIED="1543463756816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/activity8_sbyluppala$activity8.coverage" NAME="activity8 Coverage Results" MODIFIED="1543463989610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/activity8_sbyluppala$activity8.coverage" NAME="activity8 Coverage Results" MODIFIED="1543467234947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/activity8_sbyluppala$Unittests_in_TestActivity8_py.coverage" NAME="Unittests in TestActivity8.py Coverage Results" MODIFIED="1543467256257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="646429544">
@@ -33,46 +33,51 @@
         <counts>
           <entry key="csv" value="3" />
           <entry key="py" value="7" />
-          <entry key="txt" value="1" />
+          <entry key="txt" value="2" />
+          <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="Python" value="7" />
+          <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3612" />
+          <entry key="py" value="3823" />
+          <entry key="yml" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3612" />
+          <entry key="Python" value="3823" />
+          <entry key="YAML" value="43" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/activity8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="56" column="24" lean-forward="true" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+            <state relative-caret-position="538">
+              <caret line="53" column="51" lean-forward="true" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
               <folding>
-                <marker date="1543463989603" expanded="true" signature="2624:2628" ph="..." />
+                <marker date="1543467231339" expanded="true" signature="2005:2007" ph="..." />
+                <marker date="1543467231339" expanded="true" signature="2621:2625" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestActivity8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="41" column="51" lean-forward="true" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+            <state relative-caret-position="248">
+              <caret line="25" column="60" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="60" />
               <folding>
                 <element signature="e#21#36#0" expanded="true" />
               </folding>
@@ -93,6 +98,7 @@
         <option value="$PROJECT_DIR$/Quiz4p_Class.py" />
         <option value="$PROJECT_DIR$/Quiz4p2.py" />
         <option value="$PROJECT_DIR$/TestActivity8.py" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/activity8.py" />
       </list>
     </option>
@@ -159,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for TestActivity8.CustomerInfo.test_find_customer_1000">
+  <component name="RunManager" selected="Python tests.Unittests in TestActivity8.py">
     <configuration name="activity8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="activity8-sbyluppala" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,7 +218,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for TestActivity8.CustomerInfo.test_find_customer_negative" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for TestActivity8.CustomerInfo.test_find_customer_300" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="activity8-sbyluppala" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,11 +229,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;TestActivity8.CustomerInfo.test_find_customer_negative&quot;" />
+      <option name="_new_target" value="&quot;TestActivity8.CustomerInfo.test_find_customer_300&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for TestActivity8.CustomerInfo.test_find_customer_novalue" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in TestActivity8.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="activity8-sbyluppala" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,24 +244,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;TestActivity8.CustomerInfo.test_find_customer_novalue&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestActivity8.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python tests.Unittests for TestActivity8.CustomerInfo.test_find_customer_300" />
       <item itemvalue="Python.activity8" />
-      <item itemvalue="Python tests.Unittests for TestActivity8.CustomerInfo.test_find_customer_novalue" />
-      <item itemvalue="Python tests.Unittests for TestActivity8.CustomerInfo.test_find_customer_negative" />
       <item itemvalue="Python tests.Unittests for TestActivity8.CustomerInfo.test_find_customer_101" />
       <item itemvalue="Python tests.Unittests for TestActivity8.CustomerInfo.test_find_customer_1000" />
+      <item itemvalue="Python tests.Unittests in TestActivity8.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for TestActivity8.CustomerInfo.test_find_customer_1000" />
-        <item itemvalue="Python tests.Unittests for TestActivity8.CustomerInfo.test_find_customer_negative" />
-        <item itemvalue="Python tests.Unittests for TestActivity8.CustomerInfo.test_find_customer_101" />
+        <item itemvalue="Python tests.Unittests in TestActivity8.py" />
         <item itemvalue="Python.activity8" />
-        <item itemvalue="Python tests.Unittests for TestActivity8.CustomerInfo.test_find_customer_novalue" />
+        <item itemvalue="Python tests.Unittests for TestActivity8.CustomerInfo.test_find_customer_101" />
+        <item itemvalue="Python tests.Unittests for TestActivity8.CustomerInfo.test_find_customer_300" />
+        <item itemvalue="Python tests.Unittests for TestActivity8.CustomerInfo.test_find_customer_1000" />
       </list>
     </recent_temporary>
   </component>
@@ -273,35 +279,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_TestActivity8_CustomerInfo_test_find_customer_negative - 2018.11.28 at 21h 51m 01s.xml">
-      <configuration name="Unittests for TestActivity8.CustomerInfo.test_find_customer_negative" configurationId="tests" />
+    <history-entry file="Unittests_for_TestActivity8_CustomerInfo - 2018.11.28 at 22h 27m 24s.xml">
+      <configuration name="Unittests for TestActivity8.CustomerInfo" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TestActivity8_CustomerInfo_test_find_customer_200 - 2018.11.28 at 21h 51m 08s.xml">
-      <configuration name="Unittests for TestActivity8.CustomerInfo.test_find_customer_200" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_TestActivity8_CustomerInfo_test_find_customer_novalue - 2018.11.28 at 21h 51m 15s.xml">
-      <configuration name="Unittests for TestActivity8.CustomerInfo.test_find_customer_novalue" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_TestActivity8_py - 2018.11.28 at 21h 52m 15s.xml">
-      <configuration name="Unittests in TestActivity8.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_TestActivity8_py - 2018.11.28 at 21h 55m 57s.xml">
-      <configuration name="Unittests in TestActivity8.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_TestActivity8_CustomerInfo_test_find_customer_negative - 2018.11.28 at 21h 56m 35s.xml">
-      <configuration name="Unittests for TestActivity8.CustomerInfo.test_find_customer_negative" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_TestActivity8_CustomerInfo_test_find_customer_novalue - 2018.11.28 at 21h 59m 16s.xml">
-      <configuration name="Unittests for TestActivity8.CustomerInfo.test_find_customer_novalue" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_TestActivity8_CustomerInfo_test_find_customer_101 - 2018.11.28 at 22h 00m 12s.xml">
+    <history-entry file="Unittests_for_TestActivity8_CustomerInfo_test_find_customer_101 - 2018.11.28 at 22h 35m 42s.xml">
       <configuration name="Unittests for TestActivity8.CustomerInfo.test_find_customer_101" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TestActivity8_CustomerInfo_test_find_customer_negative - 2018.11.28 at 22h 00m 19s.xml">
-      <configuration name="Unittests for TestActivity8.CustomerInfo.test_find_customer_negative" configurationId="tests" />
+    <history-entry file="Unittests_for_TestActivity8_CustomerInfo_test_find_customer_101 - 2018.11.28 at 22h 36m 36s.xml">
+      <configuration name="Unittests for TestActivity8.CustomerInfo.test_find_customer_101" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TestActivity8_CustomerInfo_test_find_customer_1000 - 2018.11.28 at 22h 00m 27s.xml">
+    <history-entry file="Unittests_for_TestActivity8_CustomerInfo_test_find_customer_1000 - 2018.11.28 at 22h 37m 14s.xml">
       <configuration name="Unittests for TestActivity8.CustomerInfo.test_find_customer_1000" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestActivity8_CustomerInfo_test_find_customer_300 - 2018.11.28 at 22h 38m 53s.xml">
+      <configuration name="Unittests for TestActivity8.CustomerInfo.test_find_customer_300" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestActivity8_CustomerInfo_test_find_customer_101 - 2018.11.28 at 22h 40m 01s.xml">
+      <configuration name="Unittests for TestActivity8.CustomerInfo.test_find_customer_101" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestActivity8_CustomerInfo_test_find_customer_101 - 2018.11.28 at 22h 40m 34s.xml">
+      <configuration name="Unittests for TestActivity8.CustomerInfo.test_find_customer_101" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestActivity8_py - 2018.11.28 at 22h 47m 40s.xml">
+      <configuration name="Unittests in TestActivity8.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestActivity8_py - 2018.11.28 at 22h 52m 43s.xml">
+      <configuration name="Unittests in TestActivity8.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestActivity8_py - 2018.11.28 at 22h 54m 16s.xml">
+      <configuration name="Unittests in TestActivity8.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -321,14 +327,14 @@
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49919224" weight="0.57260275" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49919224" weight="0.31917807" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50080776" side_tool="true" weight="0.32852563" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.32876712" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.40273973" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.40273973" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -393,22 +399,30 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/activity8.py">
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="56" column="24" lean-forward="true" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
-          <folding>
-            <marker date="1543463989603" expanded="true" signature="2624:2628" ph="..." />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestActivity8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="41" column="51" lean-forward="true" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+        <state relative-caret-position="248">
+          <caret line="25" column="60" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="60" />
           <folding>
             <element signature="e#21#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activity8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="53" column="51" lean-forward="true" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
+          <folding>
+            <marker date="1543467231339" expanded="true" signature="2005:2007" ph="..." />
+            <marker date="1543467231339" expanded="true" signature="2621:2625" ph="..." />
           </folding>
         </state>
       </provider>

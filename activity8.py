@@ -52,11 +52,14 @@ def find_customer(cust_id):
         return message
     elif 101 <= int(cust_id) <= 600:
         customer_id = customers[int(cust_id) - 101]
-        return customer_id.getDetails()
-        # print(str(customer_id.firstName))
+        print(customer_id.getDetails())
+        return customer_id
+
     elif cust_id == ' ':
+        print(message)
         return message
     else:
+        print(message)
         return message
     pass
 
@@ -67,8 +70,7 @@ def main():
     while response.lower() == 'y':
         cust_id = input("\nEnter Customer ID: ")
         # function to read csv file and search for ID
-        custdet = find_customer(str(cust_id))
-        print(custdet)
+        find_customer(str(cust_id))
         # response to either continue or not
         response = input("\nContinue? (y/n): ")
         if response.lower() != 'y' and response.lower() != 'n':
