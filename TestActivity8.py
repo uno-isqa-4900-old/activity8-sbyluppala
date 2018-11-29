@@ -3,6 +3,7 @@
 import unittest
 import activity8
 
+
 class CustomerInfo(unittest.TestCase):
 
     def test_find_customer_1000(self):
@@ -41,6 +42,7 @@ class CustomerInfo(unittest.TestCase):
         result = activity8.find_customer(str(-500))
         expected_result = 'No customer with that specified ID.'
         self.assertMultiLineEqual(expected_result, result)
+
 
 if __name__ == '__main__':
     unittest.main()
