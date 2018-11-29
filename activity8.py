@@ -33,6 +33,7 @@ def display_title():
 filename = 'customers.csv'
 
 
+# reads CSV and stores the data
 def csv_reader(self):
     with open(filename, newline="") as csvfile:
         custlist = []
@@ -45,6 +46,7 @@ def csv_reader(self):
     pass
 
 
+# searches for the required customer and displays details
 def find_customer(cust_id):
     customers = csv_reader(Customer)
     message = 'No customer with that specified ID.'
